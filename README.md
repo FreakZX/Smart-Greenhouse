@@ -6,6 +6,7 @@ To create this project, I used the [STM32-F767ZI Nucleo board](https://www.st.co
 
 Equipment list:
 - Display Adafruit 2.8 TFT Touch; **(Not yet implemented)**
+- loRaWAN module; **(Not yet implemented)**
 - DH11 temperature sensor;
 - Capacitive Soil Moisture Sensor v1.2;
 - Water level sensor; **(Not yet implemented)**
