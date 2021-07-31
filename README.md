@@ -17,6 +17,5 @@ Equipment list:
 I used [RT-Thread Studio](https://www.rt-thread.io/studio.html) when creating this project.
 
 # Connection
-
-- Soil Moisture Sensor P(C, 0)
-- DH11 P(B, 12)
+- Soil Moisture Sensor AOUT Pin to STM32 P(C, 0)
+- DH11 DATA Pin to STM32 P(B, 12)
