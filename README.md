@@ -20,3 +20,7 @@ I used [RT-Thread Studio](https://www.rt-thread.io/studio.html) when creating th
 # Connection
 - Soil Moisture Sensor AOUT Pin to STM32 PC0;
 - DH11 DATA Pin to STM32 PB12;
+
+# Description
+
+To use a temperature sensor, you need to use the library for [DH11](https://github.com/murphyzhao/dht11_rtt).
